@@ -1,0 +1,7 @@
+server:
+  port: 12345 # 端口号请根据情况自行安排
+
+spring:
+  bot:
+    plugin-list:  # 插件列表
+      - cn.abalone.gocq.plugins.JavaTestPlugin
