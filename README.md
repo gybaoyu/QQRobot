@@ -1,7 +1,5 @@
 # QQRobot
 
----
-
 基于 [gocq-spring-boot-starter](https://github.com/NKDark/gocq-spring-boot-starter)SDK对[AstralGocq](https://github.com/ProtocolScience/AstralGocq)的一个超简易插件实现
 
 ### 受SDK限制，本项目基于 [SpringBoot 2.7.7](https://github.com/spring-projects/spring-boot/tree/v2.7.7) 版本开发
